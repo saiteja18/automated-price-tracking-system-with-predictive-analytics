@@ -8,7 +8,7 @@ What if there was a solution that could streamline this process, offering users 
 Our tool aims to gather real-time information about product prices from a wide range of websites, enabling users to make informed decisions by comparing prices, features, and reviews effortlessly. Beyond just comparing current prices, our advanced algorithms predict future price trends, helping users anticipate the best time to make a purchase and maximize savings.
 
 ## Flow of the Project
-1.**Web Scraping**: Extracting product data from various e-commerce websites using Python.
-2.**Database Storag**e: Storing the scraped data in a structured database for easy retrieval and analysis.
-3.**Price Prediction**: Implementing predictive models to forecast future price trends.
-4.**Visualization**: Designing an intuitive website to visualize and compare product prices across platforms.
+1. **Web Scraping**: Extracting product data from various e-commerce websites using Python.
+2. **Database Storag**e: Storing the scraped data in a structured database for easy retrieval and analysis.
+3. **Price Prediction**: Implementing predictive models to forecast future price trends.
+4. **Visualization**: Designing an intuitive website to visualize and compare product prices across platforms.
