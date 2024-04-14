@@ -12,3 +12,20 @@ Our tool aims to gather real-time information about product prices from a wide r
 2. **Database Storag**e: Storing the scraped data in a structured database for easy retrieval and analysis.
 3. **Price Prediction**: Implementing predictive models to forecast future price trends.
 4. **Visualization**: Designing an intuitive website to visualize and compare product prices across platforms.
+
+## Installation
+### Clone the Repository
+git clone https://github.com/saiteja18/automated-price-tracking-system-with-predictive-analytics.git
+### Navigate to the Porject Directory
+cd automated_price_tracking_system_with_predictive_analytics
+### Install Dependencies
+pip install -r requirements.txt
+
+## Usage
+### Run the web scraper and store in database
+Running Final_Scraping_Scheduled.ipynb  will initiate the web scraping process to gather product data from various e-commerce and will store the scraped data in the database for future analysis.
+### Predict Price Trends
+The main.py implement predictive models to forecast future price trends based on the stored data.
+### Visualize Data
+Static and templates folders have all the required documents to build a web page and show the above analysis in a graphical format.
+
